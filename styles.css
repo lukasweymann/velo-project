@@ -1,0 +1,84 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Lato', sans-serif;
+    max-width: 100%;
+    text-align: center;
+}
+
+.header {
+    background-size: 100%;
+    height: 710px;
+    background-image: url("assets/Layer 7.png");
+    background-repeat: no-repeat;
+}
+
+nav {
+    padding: 30px;
+    display: flex;
+    justify-content: center;
+}
+
+.link {
+    font-weight: 700;
+    padding: 40px 20px;
+    text-decoration: none;
+    color: #4d4959;
+    font-size: 13px;
+}
+
+.logo {
+    padding: 90px 0px 20px 0px;
+}
+
+.second {
+    height: 400px;
+    background-color: #F0F0F0;
+}
+
+p {
+    line-height: 2;
+}
+
+h3 {
+    text-decoration: wavy;
+    font-family: 'Lato', sans-serif;
+    padding: 8px;
+}
+
+.new-vintage {
+    color: #888888;
+    padding-bottom: 70px;
+}
+
+.third-division,
+.fourth-section {
+    border: 0;
+    display: flex;
+}
+
+.vintage-o {
+    color: #888888;
+    padding-bottom: 22px;
+}
+
+hr {
+    margin: 5px auto 40px auto;
+    width: 10%;
+}
+
+span {
+    color: #888888;
+}
+
+.tweet {
+    line-height: 1.5;
+    font-style: italic;
+    color: #888888;
+    font-weight: 100;
+    font-size: 1.4rem;
+}
+
+.collage {
+    display: flex;
+}
